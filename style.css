@@ -30,7 +30,7 @@ font-size: 50px;
 
 
 .top{background-color: #145374 ;
-background-size: auto;
+background-size:100%;
 }
 
 .myname:hover{ border-radius: 5px;
