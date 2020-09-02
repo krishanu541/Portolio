@@ -1,0 +1,133 @@
+*
+{padding: 0;
+  margin: 0;}
+
+
+body{background-image:url(images/123456.png);
+
+}
+
+ul{ display: inline-flex;;}
+
+
+div table td h1  a{  text-decoration: none;
+  font-family:cursive;
+color: #f5efef;
+font-size: 50px;
+}
+
+
+
+ div li a {
+   color: #fff;
+  text-decoration: none;
+ }
+
+
+
+
+/******Class Selector***/
+
+
+.top{background-color: #145374 ;
+background-size: auto;
+}
+
+.myname:hover{ border-radius: 5px;
+  bor
+ background: #fc8210;
+}
+.myname{display: inline;}
+
+ .menu {
+   background-color: #5eaaa8 ;
+ background-size: auto;
+   font-size:20px;
+   text-align: center;
+   text-underline-position: none;
+
+ }
+ .menu ul{
+   list-style: none;  font-family: cursive;  }
+
+
+.menu ul li {
+   width: 200px;
+  margin: 5px;
+  padding: 15px;
+}
+
+.menu ul li:hover
+ {border-radius: 5px;
+  background: #e11d74;
+
+}
+
+
+#new{ background-image:url(images/12345.png);
+background-size: cover;
+height: 500px;
+width: 50%;
+position: absolute;
+border-radius: 20px;
+}
+
+
+
+#middle{ background-image:url(images/1.jpg);
+background-size: cover;
+height: 500px;
+width: 50%;
+position:  absolute;
+top: 315px;
+left:50%;
+border-radius: 20px;
+}
+
+.table tr { text-decoration: none;
+
+}
+
+
+.Experiences{ background-image:url(images/111.jpg);
+  position:   relative;
+  top: 485px;
+  right: 0px;
+  padding-left: 30%;
+  height: 263px;
+  border-radius: 20px;
+}
+
+.Experiences{  font-family: sans-serif  ;
+
+color: #dddddd;
+
+}
+
+
+
+#DETAILS {position:  absolute;
+
+  background-color: ;
+  top: 1173px;
+  left: 30%;
+  width: 820px;
+
+}
+
+
+
+#DETAILS{  font-family: sans-serif  ;
+color: #d3de32;
+
+}
+
+
+#DETAILS a { text-decoration: none; font-family:  sans-serif ;
+color: #d3de32;
+
+
+
+}
+
+/* IDEA:  */
