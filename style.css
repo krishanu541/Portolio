@@ -3,7 +3,7 @@
   margin: 0;}
 
 
-body{background-image:url(images/123456.png);
+body{background-image:url(123456.png);
 
 }
 
@@ -64,7 +64,7 @@ background-size: auto;
 }
 
 
-#new{ background-image:url(images/12345.png);
+#new{ background-image:url(12345.png);
 background-size: cover;
 height: 500px;
 width: 50%;
@@ -74,7 +74,7 @@ border-radius: 20px;
 
 
 
-#middle{ background-image:url(images/1.jpg);
+#middle{ background-image:url(1.jpg);
 background-size: cover;
 height: 500px;
 width: 50%;
@@ -89,7 +89,7 @@ border-radius: 20px;
 }
 
 
-.Experiences{ background-image:url(images/111.jpg);
+.Experiences{ background-image:url(111.jpg);
   position:   relative;
   top: 485px;
   right: 0px;
