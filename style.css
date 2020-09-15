@@ -3,16 +3,21 @@
   margin: 0;}
 
 
-body{background-image:url(123456.png);
+body{background-image:url(images/123456.png);
 
 }
 
 ul{ display: inline-flex;;}
 
+#menu{width: 100%;
+
+
+}
 
 div table td h1  a{  text-decoration: none;
   font-family:cursive;
 color: #f5efef;
+
 font-size: 50px;
 }
 
@@ -26,22 +31,21 @@ font-size: 50px;
 
 
 
-/******Class Selector***/
 
 
 .top{background-color: #145374 ;
-background-size:100%;
+background-size: auto;
 }
 
 .myname:hover{ border-radius: 5px;
-  bor
+
  background: #fc8210;
 }
 .myname{display: inline;}
 
  .menu {
    background-color: #5eaaa8 ;
- background-size: auto;
+ background-size:  cover;
    font-size:20px;
    text-align: center;
    text-underline-position: none;
@@ -63,38 +67,32 @@ background-size:100%;
 
 }
 
-
-#new{ background-image:url(12345.png);
-background-size: cover;
-height: 500px;
-width: 50%;
-position: absolute;
-border-radius: 20px;
-}
-
-
-
-#middle{ background-image:url(1.jpg);
-background-size: cover;
-height: 500px;
-width: 50%;
-position:  absolute;
-top: 315px;
-left:50%;
-border-radius: 20px;
-}
-
+.navbar{position:  ;}
 .table tr { text-decoration: none;
 
 }
+.video {  padding-left:150px; display: inline; }
+.video { padding-top: 20px;
+
+}
+.video 1 { position: ;
+}
 
 
-.Experiences{ background-image:url(111.jpg);
-  position:   relative;
-  top: 485px;
+.video 2 { }
+
+
+.Experiences {
+
+}
+
+
+.Experiences{ background-image:url(images/111.jpg);
+  position:   ;
+  top: ;
   right: 0px;
-  padding-left: 30%;
-  height: 263px;
+  padding-left:20%;
+  height: ;
   border-radius: 20px;
 }
 
@@ -106,7 +104,7 @@ color: #dddddd;
 
 
 
-#DETAILS {position:  absolute;
+#DETAILS {position:  ;
 
   background-color: ;
   top: 1173px;
@@ -125,9 +123,44 @@ color: #d3de32;
 
 #DETAILS a { text-decoration: none; font-family:  sans-serif ;
 color: #d3de32;
+}
 
 
+.Copyright{
+  background-color:  #e11d74;
+    color: #fff;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+  }
+
+.Copyright{ font-family: cursive;  font-size: 25px;
+  padding: 15px;
+
+}
+
+.Copyright p a:hover { color: blue;
 
 }
 
 /* IDEA:  */
+
+/******Class Selector #new{ background-image:url(images/12345.png);
+background-size: cover;
+height: 500px;
+width: 50%;
+position: absolute;
+border-radius: 20px;
+}
+
+
+
+#middle{ background-image:url(images/1.jpg);
+background-size: cover;
+height: 500px;
+width: 50%;
+position:  absolute;
+top: 325px;
+left:50%;
+border-radius: 20px;
+}***/
